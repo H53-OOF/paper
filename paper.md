@@ -1,5 +1,5 @@
 # Title
-The Incompetence of University of Manchester Finance Department
+The Incredible Incompetence of University of Manchester Finance Department
 
 # Author
 Matt Craddock
