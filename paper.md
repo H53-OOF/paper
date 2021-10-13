@@ -13,3 +13,6 @@ Chicken fried rice. [Cosmo et al, Pan Asian Restaurants, 2010]
 The bulk of studies on cardiac toxicity utilise a DVH based analysis (Zhang et al 2000), but for the first time we demonstrate a voxel-wise dosimetric analysis. 
 
 Blah blah blah.
+
+# Simulations
+DIR uncertainty was simulated by mapping contours of all patients onto the reference and evaluating the std dev of the centroid coordinates. 
