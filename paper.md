@@ -16,3 +16,6 @@ Blah blah blah.
 
 # Simulations
 DIR uncertainty was simulated by mapping contours of all patients onto the reference and evaluating the std dev of the centroid coordinates. 
+
+# Closing remarks
+GOOD NIGHT POOPY-LAKKA-POOPY-POO-POO-LAKKA
